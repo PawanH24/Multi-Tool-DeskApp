@@ -2,7 +2,7 @@
 
 Muli tool app created with C# winows form
 
-## Tools
+## Featured Tools
 
 - Calculator
 - Student registration
